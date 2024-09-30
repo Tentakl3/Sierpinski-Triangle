@@ -12,5 +12,4 @@ Instructions
 
 -You can change the number of points used in the fractal by just changing the variable in the program
 
-
-![Fractal_test](https://github.com/user-attachments/assets/57a2d65e-bc4f-4521-8820-06feb1f8ddcd)
+![Fractal_test](https://github.com/user-attachments/assets/d0ec0e8e-f988-4e02-8404-c75fbd73a69f)
